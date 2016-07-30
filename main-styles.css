@@ -1,0 +1,21 @@
+body {
+    background-color: lightblue;
+}
+
+h1 {
+    color: navy;
+    margin-left: 20px;
+}
+
+.header {
+	color: #CC0000
+}
+
+.intput1_3 {
+	width: 100px;
+}
+
+.intput2 {
+	width: 30px;
+	text-align:center;
+}
