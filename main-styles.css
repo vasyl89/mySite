@@ -1,5 +1,9 @@
-body {
-    background-color: lightblue;
+﻿body {
+ background: #c7b39b url(images/bg.jpg);
+    color: #000000;
+}
+
+br.clear {
 }
 
 h1 {
